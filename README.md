@@ -1,7 +1,5 @@
 # fav_places_app
 
-# fav_places_app
-
 This Flutter project focuses on utilizing native device features such as camera and location access, as well as storing data locally on the device storage.
 
 ## Features
